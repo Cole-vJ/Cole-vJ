@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cole-vJ.
+- 🇿🇦 I am South Afrcan.
+- 🇬🇧 I live in the UK.
+- 🎓 I am pursuing my PhD in Actuarial Mathematics and Statistics.
+- 📖 I study numerous fields such as implicit factor extraction techniques such as X11, Singular Spectrum Analysis (SSA), Singular Spectrum Decomposition (SSD), and Empirical Mode Decomposition (EMD).
