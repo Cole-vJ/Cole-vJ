@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cole-vJ.
-- 🇿🇦 I am South Afrcan.
+- 🇿🇦 I am South African.
 - 🇬🇧 I live in the UK.
 - 🎓 I am pursuing my PhD in Actuarial Mathematics and Statistics.
 - 📖 I study numerous fields such as:
