@@ -3,5 +3,5 @@
 - 🇬🇧 I live in the UK.
 - 🎓 I am pursuing my PhD in Actuarial Mathematics and Statistics.
 - 📖 I study numerous fields such as:
-- implicit factor extraction techniques which includes X11, Singular Spectrum Analysis (SSA), Singular Spectrum Decomposition (SSD), and Empirical Mode Decomposition (EMD), and
-- regularised covariance regression (RCR) and forecasting specifically relating to portfolio optimisation.
+  - Implicit Factor Extraction/Decomposition/Feature-Engineering techniques which include X11, Singular Spectrum Analysis (SSA), Singular Spectrum Decomposition (SSD), Empirical Mode Decomposition (EMD), and Signature Method; and
+  - Regularised Covariance Regression (RCR) and forecasting of financial securities covariance.
