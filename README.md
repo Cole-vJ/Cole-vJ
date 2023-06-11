@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cole-vJ.
 - 🇿🇦 I am South African.
 - 🇬🇧 I live in the UK.
-- 🎓 I am pursuing my PhD in Actuarial Mathematics and Statistics.
-- 📖 I study numerous fields such as:
-  - Implicit Factor Extraction/Decomposition/Feature-Engineering techniques which include X11, Singular Spectrum Analysis (SSA), Singular Spectrum Decomposition (SSD), Empirical Mode Decomposition (EMD), and Signature Method; and
+- 🎓 I am pursuing a PhD in Actuarial Mathematics and Statistics.
+- 📖 My research interests span various fields, including:
+  - Implicit Factor Extraction/Decomposition/Feature-Engineering techniques such as  X11, Singular Spectrum Analysis (SSA), Singular Spectrum Decomposition (SSD), Empirical Mode Decomposition (EMD), and Signature Method (SM); and
   - Regularised Covariance Regression (RCR) and forecasting of financial securities covariance.
